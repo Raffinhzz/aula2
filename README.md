@@ -46,4 +46,4 @@ gcc nome_do_arquivo.c -lm
 3. Execute o Programa Compilado
 ```shell
 ./a.out
-```
+```    
