@@ -1,7 +1,5 @@
-/*
-Construa um programa que calcule a soma de dois numeros inteiros
-*/
- #include <stdio.h>
+
+#include <stdio.h>
 #include <math.h>
 #define PI 3.14159265358979323846
 
