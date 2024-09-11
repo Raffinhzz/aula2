@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-  long int matricula = 2422130043;
+  int matricula = 2422130043;
   int idade = 19;
   float altura = 1.90f;
   int peso = 60;

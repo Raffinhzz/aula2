@@ -9,7 +9,7 @@ int main(){
 
   printf("ISBN: %013i\n", isbn);
   printf("Num.Paginas: %03i\n", npag);
-  printf("Preco: 'R$'%07.2f\n", preco);
+  printf("Preco: 'R$''%07.2f\n", preco);
   printf("Publicacao: %04i", publicacao);
   
   return 0;
